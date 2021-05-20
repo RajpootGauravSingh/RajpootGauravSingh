@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RajpootGauravSingh
-- 👀 I’m interested in camping
+- 👋 Hi, I’m @RajpootGauravSingh.
+- 👀 I’m interested in programming, books and camping
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on API'S
 - 📫 How to reach me spencerhike12@outlook.com
